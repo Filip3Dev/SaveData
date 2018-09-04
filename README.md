@@ -1,4 +1,4 @@
-# LotteryContract
+# SaveData
 
 Esse é um SmartContract muito simples com apenas duas funções, criado para salvar e resgatar dados na BlockChain.
 
